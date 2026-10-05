@@ -1,4 +1,4 @@
-# Jessica-Emberly-Photography
+# Jessica Emberly Photography
 A page for SEO that contains information about the photographer Jessica Emberly.
 <img width="500" height="500" alt="87174" src="https://github.com/user-attachments/assets/e4c51625-f2a4-44f2-afdc-f50b3c6e8cc7" />
 
